@@ -1,0 +1,60 @@
+
+# Questions
+
+
+## 1. Workforce Composition & Structure
+
+1. What is the headcount distribution across departments?
+2. How are employees distributed by work mode (on-site vs. remote)?
+3. Which country has the highest employee concentration?
+4. How are hiring volumes distributed across departments and job roles?
+
+---
+
+## 2. Hiring & Workforce Growth Trends
+
+5. How has hiring volume changed over time (year-over-year)?
+6. How have salary levels evolved over time?
+7. Which departments are experiencing the fastest hiring growth?
+
+---
+
+## 3. Performance Insights
+
+8. What is the average performance rating within each department?
+9. Is there any relationship between performance ratings and work mode or employment status?
+
+---
+
+## 4. Salary Analysis (Core Compensation Insights)
+
+### 4.1 Overall Salary Benchmarks
+
+10. Which department provides the highest average compensation?
+11. Which job titles command the highest average salary?
+
+### 4.2 Salary Drivers & Relationships
+
+15. What is the relationship between years of experience and salary growth?
+16. Does work mode influence compensation for employees in the same role?
+17. Is there a statistically meaningful difference between remote and on-site salaries?
+18. Does performance rating impact salary levels?
+19. What is the correlation between performance ratings and compensation?
+20. Which factors show the strongest and weakest relationships with salary?
+
+### 4.3 Salary Extremes
+
+21. Who are the top 10 highest-paid employees within each department?
+
+---
+
+## 5. Attrition & Retention Analysis
+
+22. How many employees have exited (resigned or terminated) from each department?
+23. Which department has the highest attrition rate?
+24. Which job roles experience the highest turnover?
+25. Which department shows the greatest overall attrition risk?
+
+---
+
+
